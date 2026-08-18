@@ -18,7 +18,7 @@ title: Inicio
   <div class="hero-inner">
     <h1>LUIS FERNANDO ESCOBAR CABA</h1>
     <div class="hero-rule"></div>
-    <div class="hero-role">Economista · Docente universitario · Investigador en Econometría Financiera</div>
+    <div class="hero-role">Economista · Docente universitario · Investigador </div>
   </div>
 </div>
 
@@ -32,8 +32,7 @@ title: Inicio
         <h3>Líneas de investigación</h3>
         <ul>
           <li>Econometría financiera</li>
-          <li>Volatilidad y riesgo (modelos GARCH)</li>
-          <li>Economía monetaria y fiscal</li>
+          <li>Macroeconomía aplicada</li>
           <li>Ciencia de datos para política pública</li>
         </ul>
       </div>
@@ -62,9 +61,10 @@ title: Inicio
     <div class="col-right" id="sobre-mi">
       <h2 class="section-title">Sobre mí</h2>
       <div class="about">
-        <p>Soy economista boliviano, licenciado por la <em>Universidad Autónoma Gabriel René Moreno</em> (2014) y magíster en Finanzas Corporativas por la UAGRM Business School (2023, Summa Cum Laude). Mi trabajo combina la econometría financiera con el análisis de riesgo; mi tesis de maestría modeló la volatilidad de los depósitos del sistema financiero boliviano con modelos GARCH simétricos y asimétricos.</p>
-        <p>Actualmente soy <strong>Analista Financiero</strong> en Industrias Oleaginosas Santa Cruz (INOLSA) y docente de posgrado en econometría, estadística aplicada y gestión financiera en la UAGRM Business School, la Universidad Católica Boliviana y la Universidad Privada de Santa Cruz.</p>
-        <p>Investigo en el Centro de Investigación Económica del Colegio de Economistas de Santa Cruz (CIECE), y he publicado en revistas como la Revista Latinoamericana de Desarrollo Económico y Asian Economic and Financial Review.</p>
+        <p>Soy economista boliviano, licenciado por la <em>Universidad Autónoma Gabriel René Moreno<em> (2014) y magíster en Finanzas Corporativas por la <em>UAGRM Business School<em> (2023, Summa Cum Laude). Mi trayectoria académica y profesional se centra en la econometría financiera y el análisis de riesgos. En mi tesis de maestría, estudié la volatilidad de los depósitos del sistema financiero boliviano mediante la aplicación de modelos GARCH simétricos y asimétricos.</p>
+        <p>Actualmente, soy <strong>analista financiero<strong> en Industrias Oleaginosas Santa Cruz (INOLSA) y docente universitario de pregrado y posgrado en las áreas de econometría, estadística y finanzas en la Universidad Autónoma Gabriel René Moreno y la Universidad Católica Boliviana.</p>
+        <p>He desarrollado actividades de investigación en el Instituto de Investigaciones Económicas y Sociales “José Ortiz Mercado” (IIES-JOM) de la Universidad Autónoma Gabriel René Moreno (UAGRM), la Unidad de Análisis y Estudios Fiscales del Ministerio de Economía y Finanzas Públicas y el Centro de Investigación Económica del Colegio de Economistas de Santa Cruz (CIECE). Estas experiencias me han permitido participar en investigaciones y análisis aplicados en las áreas de economía, finanzas, econometría y políticas públicas.</p>
+        <p>Asimismo, he publicado trabajos de investigación en revistas académicas nacionales e internacionales, entre ellas la Revista Latinoamericana de Desarrollo Económico, la Revista de Economía del Rosario, la Revista de Análisis del Banco Central de Bolivia, los Cuadernos de Investigación Económica Boliviana, el International Journal of Energy Economics and Policy y el Asian Economic and Financial Review.</p>
         <p>👉 Revisá mi <a href="{{ '/cv/' | relative_url }}"><strong>CV completo</strong></a> o el material de mis <a href="{{ '/docencia/' | relative_url }}"><strong>cursos</strong></a>.</p>
       </div>
 
