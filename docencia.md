@@ -14,9 +14,9 @@ permalink: /docencia/
 <section class="block" style="border-top:none;">
   <div class="grid-3">
     <div class="card">
-      <span class="tag">Posgrado</span><span class="tag">R · EViews</span>
+      <span class="tag">Pregrado</span><span class="tag">R · EViews</span>
       <h4>Econometría</h4>
-      <p>Regresión lineal, series de tiempo, heterocedasticidad y modelos de volatilidad (ARCH/GARCH).</p>
+      <p>Regresión lineal, heterocedasticidad y autocorrelación, y análisis de series de tiempo.</p>
       <a class="link" href="https://LFernandoEscobarC.github.io/econometria/">Ver materiales →</a>
     </div>
     <div class="card">
