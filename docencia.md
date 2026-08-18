@@ -17,7 +17,7 @@ permalink: /docencia/
       <span class="tag">Posgrado</span><span class="tag">R · EViews</span>
       <h4>Econometría</h4>
       <p>Regresión lineal, series de tiempo, heterocedasticidad y modelos de volatilidad (ARCH/GARCH).</p>
-      <a class="link" href="https://lufesc.github.io/econometria/">Ver materiales →</a>
+      <a class="link" href="https://LFernandoEscobarC.github.io/econometria/">Ver materiales →</a>
     </div>
     <div class="card">
       <span class="tag">Posgrado</span><span class="tag">Python</span>
