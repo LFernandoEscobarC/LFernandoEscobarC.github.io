@@ -26,7 +26,7 @@ permalink: /docencia/
       <a class="link" href="#">Próximamente →</a>
     </div>
     <div class="card">
-      <span class="tag">Grado</span><span class="tag">Excel · R</span>
+      <span class="tag">Pregrado</span><span class="tag">Excel · R</span>
       <h4>Modelación Financiera</h4>
       <p>Proyecciones, flujo de caja, evaluación de proyectos y escenarios financieros.</p>
       <a class="link" href="#">Próximamente →</a>
