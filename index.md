@@ -29,11 +29,11 @@ title: Inicio
       <div class="caption"><strong>Contacto:</strong><br>lfernandoescobarc@gmail.com<br>+591 70987008<br>Santa Cruz de la Sierra, Bolivia</div>
 
       <div class="side-block">
-        <h3>Líneas de investigación</h3>
+        <h3>Intereses principales</h3>
         <ul>
           <li>Econometría financiera</li>
           <li>Macroeconomía aplicada</li>
-          <li>Ciencia de datos para política pública</li>
+          <li>Ciencia de datos</li>
         </ul>
       </div>
 
