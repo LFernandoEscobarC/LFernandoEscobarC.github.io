@@ -89,5 +89,5 @@ permalink: /cv/
 </section>
 
 <section class="block" style="text-align:center; border-top:1px solid var(--line);">
-  <a class="card" style="display:inline-block;" href="{{ '/assets/cv-luis-escobar.pdf' | relative_url }}">📄 Descargar CV en PDF</a>
+  <a class="card" style="display:inline-block;" href="">📄 Descargar CV en PDF</a>
 </section>
