@@ -27,9 +27,9 @@ permalink: /docencia/
     </div>
     <div class="card">
       <span class="tag">Pregrado</span><span class="tag">Excel · R</span>
-      <h4>Modelación Financiera</h4>
-      <p>Proyecciones, flujo de caja, evaluación de proyectos y escenarios financieros.</p>
-      <a class="link" href="#">Próximamente →</a>
+      <h4>Finanzas I</h4>
+      <p>Rol de las finanzas empresariales, mercados financieros, estados financieros y evaluación del desempeño financiero.</p>
+      <a class="link" href="https://LFernandoEscobarC.github.io/finanzas/">Próximamente →</a>
     </div>
   </div>
 </section>
