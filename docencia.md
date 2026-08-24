@@ -29,7 +29,7 @@ permalink: /docencia/
       <span class="tag">Pregrado</span><span class="tag">Excel · R</span>
       <h4>Finanzas I</h4>
       <p>Rol de las finanzas empresariales, mercados financieros, estados financieros y evaluación del desempeño financiero.</p>
-      <a class="link" href="https://LFernandoEscobarC.github.io/finanzas/">Próximamente →</a>
+      <a class="link" href="https://LFernandoEscobarC.github.io/finanzas/">Ver materiales →</a>
     </div>
   </div>
 </section>
