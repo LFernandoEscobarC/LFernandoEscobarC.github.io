@@ -20,10 +20,10 @@ permalink: /docencia/
       <a class="link" href="https://LFernandoEscobarC.github.io/econometria/">Ver materiales →</a>
     </div>
     <div class="card">
-      <span class="tag">Posgrado</span><span class="tag">Python</span>
+      <span class="tag">Posgrado</span><span class="tag">Excel · R · Posit Cloud</span>
       <h4>Estadística Aplicada</h4>
-      <p>Descripción y exploración de datos, inferencia y computación estadística I y II.</p>
-      <a class="link" href="#">Próximamente →</a>
+      <p>Descripción y exploración de datos, inferencia y pronóstico de series de tiempo.</p>
+      <a class="link" href="https://LFernandoEscobarC.github.io/estadistica/">Ver materiales →</a>
     </div>
     <div class="card">
       <span class="tag">Pregrado</span><span class="tag">Excel · R</span>
