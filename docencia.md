@@ -14,7 +14,7 @@ permalink: /docencia/
 <section class="block" style="border-top:none;">
   <div class="grid-3">
     <div class="card">
-      <span class="tag">Pregrado</span><span class="tag">R · EViews</span>
+      <span class="tag">Pregrado</span><span class="tag">R · Posit Cloud</span>
       <h4>Econometría</h4>
       <p>Regresión lineal, heterocedasticidad y autocorrelación, y análisis de series de tiempo.</p>
       <a class="link" href="https://LFernandoEscobarC.github.io/econometria/">Ver materiales →</a>
@@ -26,7 +26,7 @@ permalink: /docencia/
       <a class="link" href="https://LFernandoEscobarC.github.io/estadistica/">Ver materiales →</a>
     </div>
     <div class="card">
-      <span class="tag">Pregrado</span><span class="tag">Excel · R</span>
+      <span class="tag">Pregrado</span><span class="tag">Excel</span>
       <h4>Finanzas I</h4>
       <p>Rol de las finanzas empresariales, mercados financieros, estados financieros y evaluación del desempeño financiero.</p>
       <a class="link" href="https://LFernandoEscobarC.github.io/finanzas/">Ver materiales →</a>
