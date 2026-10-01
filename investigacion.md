@@ -13,8 +13,8 @@ permalink: /investigacion/
 
 <section class="block" style="border-top:none;">
   <ul class="pub-list">
-    <li><span class="pub-year">2024</span>Escobar C., L.F. &amp; Banegas R., R.A. — <em>Volatilidad en los depósitos bancarios en Bolivia: GARCH simétrico y asimétrico.</em> Revista Latinoamericana de Desarrollo Económico, (41), 69-102.<a href="https://lajed.ucb.edu.bo/a/article/view/514">(Link)</a></li>
-    <li><span class="pub-year">2023</span>Chalup, C.M.S. &amp; Escobar C., L.F. — <em>Macroeconomic Effects of Fiscal Policy during the Covid-19 Crisis: Evidence from Bolivia at a Regional Level.</em> Revista de Economía del Rosario, 26(1), 1-39.</li>
+    <li><span class="pub-year">2024</span>Escobar C., L.F. &amp; Banegas R., R.A. — <em>Volatilidad en los depósitos bancarios en Bolivia: GARCH simétrico y asimétrico.</em> Revista Latinoamericana de Desarrollo Económico, (41), 69-102.<a href="https://lajed.ucb.edu.bo/a/article/view/514"><span class="pub-year">(Link)</span></a></li>
+    <li><span class="pub-year">2023</span>Chalup, C.M.S. &amp; Escobar C., L.F. — <em>Macroeconomic Effects of Fiscal Policy during the Covid-19 Crisis: Evidence from Bolivia at a Regional Level.</em> Revista de Economía del Rosario, 26(1), 1-39.<a href="https://lajed.ucb.edu.bo/a/article/view/514">(Link)</a></li>
     <li><span class="pub-year">2022</span>Escobar C., L.F. — <em>La hidrovía y la salida por el Atlántico.</em> En <em>Al mar por el Oriente. El tren y el progreso en Santa Cruz.</em> Biblioteca del Museo de Historia de la UAGRM, Plural Editores.</li>
     <li><span class="pub-year">2021</span>Banegas R., R.A. et al. — <em>Internal and external shocks and economic policy innovations in Bolivia: a general approach.</em> Asian Economic and Financial Review, 11(1), 57-77.</li>
     <li><span class="pub-year">2020</span>Escobar C., L.F. &amp; Chalup C., M.S. — <em>Desempeño económico departamental durante la crisis del Covid-19 en Bolivia.</em> Cuadernos de Investigación Económica Boliviana, 3(1), 89-110.</li>
