@@ -89,5 +89,5 @@ permalink: /cv/
 </section>
 
 <section class="block" style="text-align:center; border-top:1px solid var(--line);">
-  <a class="card" style="display:inline-block;" href="">📄 Descargar CV en PDF</a>
+  <a class="card" style="display:inline-block;" href="https://raw.githack.com/LFernandoEscobarC/LFernandoEscobarC.github.io/main/assets/img/CV_LFEC.pdf">📄 Descargar CV en PDF</a> 
 </section>
